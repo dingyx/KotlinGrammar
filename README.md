@@ -20,5 +20,16 @@
   | 函数内联                   | [PassingFunReference](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin02/PassingFunReference.kt) |
   | 函数类型作为返回类型、闭包 | [RetunFunction](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin02/RetunFunction.kt) |
 
+
+
+
+* null 安全与异常
+
+  | Name               | Link                                                         |
+  | ------------------ | ------------------------------------------------------------ |
+  | null 安全          | [NullSafe](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin03/NullSafe.kt) |
+  | 安全调用           | [SafeCall](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin03/SafeCall.kt) |
+  | 异常、先决条件函数 | [ExceptionAndFunction](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin03/ExceptionAndFunction.kt) |
+
   
 
