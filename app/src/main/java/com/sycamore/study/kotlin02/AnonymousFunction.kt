@@ -48,7 +48,7 @@ fun main() {
     println(question("Kotlin"))
 
 
-    // 匿名函数只有一个参数时可以省略
+    // 匿名函数只有一个参数时可以省略 （匿名内部类里面默认it）
     val printParam: (String) -> String = {
         "only a param is $it"
     }
