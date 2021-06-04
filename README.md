@@ -41,5 +41,16 @@
   | 字符串、数字 | [StringNumber](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin04/StringNumber.kt) |
   | 标准库函数   | [StandardLibrary](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin04/StandardLibrary.kt) |
 
-  
 
+
+
+* 集合、数组
+
+  | Name      | Link                                                         |
+  | --------- | ------------------------------------------------------------ |
+  | List 集合 | [ListStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin05/ListStudy.kt) |
+  | Set 集合  | [SetStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin05/SetStudy.kt) |
+  | Map 集合  | [MapStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin05/MapStudy.kt) |
+  | 数组      | [ArrayStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin05/ArrayStudy.kt) |
+
+  
