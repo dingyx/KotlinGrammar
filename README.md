@@ -31,5 +31,15 @@
   | 安全调用           | [SafeCall](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin03/SafeCall.kt) |
   | 异常、先决条件函数 | [ExceptionAndFunction](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin03/ExceptionAndFunction.kt) |
 
+
+
+
+* 字符串、标准库函数
+
+  | Name         | Link                                                         |
+  | ------------ | ------------------------------------------------------------ |
+  | 字符串、数字 | [StringNumber](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin04/StringNumber.kt) |
+  | 标准库函数   | [StandardLibrary](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin04/StandardLibrary.kt) |
+
   
 
