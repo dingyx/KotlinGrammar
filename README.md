@@ -53,4 +53,15 @@
   | Map 集合  | [MapStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin05/MapStudy.kt) |
   | 数组      | [ArrayStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin05/ArrayStudy.kt) |
 
+
+
+
+* 构造函数、初始化
+
+  | Name     | Link                                                         |
+  | -------- | ------------------------------------------------------------ |
+  | filed    | [FieldStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/FieldStudy.kt) |
+  | 构造函数 | [ConstructorStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ConstructorStudy.kt) |
+  | 初始化   | [InitStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/InitStudy.kt) |
+
   

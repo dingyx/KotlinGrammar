@@ -78,6 +78,18 @@ fun main() {
     println(fileContents)
 
 
+
+    // 如果变量可空又可变 且需要对变量进行多个操作 可以使用also 引用前进行判断是否为空
+    var text: String? = "hello"
+    fun printText() {
+        text?.also {
+            println("${it.toUpperCase()}")
+        }
+    }
+
+
+
+
     // takeIf
     val readResult = File("D:\\temp\\test.txt").takeIf {
         it.exists() && it.canRead()
