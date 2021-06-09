@@ -56,12 +56,14 @@
 
 
 
-* 构造函数、初始化
+* 构造函数、对象
 
   | Name     | Link                                                         |
   | -------- | ------------------------------------------------------------ |
   | filed    | [FieldStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/FieldStudy.kt) |
   | 构造函数 | [ConstructorStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ConstructorStudy.kt) |
   | 初始化   | [InitStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/InitStudy.kt) |
-
+| 继承     | [ExtendStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ExtendStudy.kt) |
+  | 对象     | [ObjectStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ObjectStudy.kt) |
+  
   

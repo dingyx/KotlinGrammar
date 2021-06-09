@@ -22,7 +22,6 @@ package com.sycamore.study.kotlin06
  * 注意：
  * 1、如果类级别属性定义在init代码块的后面，那么init代码块不能引用到属性
  * 2、lateinit 如果在初始化前函数调用了，那么编译正常，但运行会报错
- * 3、
  *
  * @date: 2021/6/8
  */
