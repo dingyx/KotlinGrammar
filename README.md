@@ -58,12 +58,14 @@
 
 * 构造函数、对象
 
-  | Name     | Link                                                         |
-  | -------- | ------------------------------------------------------------ |
-  | filed    | [FieldStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/FieldStudy.kt) |
-  | 构造函数 | [ConstructorStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ConstructorStudy.kt) |
-  | 初始化   | [InitStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/InitStudy.kt) |
-  | 继承     | [ExtendStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ExtendStudy.kt) |
-  | 对象     | [ObjectStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ObjectStudy.kt) |
+  | Name                         | Link                                                         |
+  | ---------------------------- | ------------------------------------------------------------ |
+  | filed                        | [FieldStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/FieldStudy.kt) |
+  | 构造函数                     | [ConstructorStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ConstructorStudy.kt) |
+  | 初始化                       | [InitStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/InitStudy.kt) |
+  | 继承                         | [ExtendStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ExtendStudy.kt) |
+  | 对象                         | [ObjectStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ObjectStudy.kt) |
+  | 嵌套类、解构语法、运算符重载 | [ClassStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ClassStudy.kt) |
+  | 枚举、代数数据类型、密封类   | [ADTStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ADTStudy.kt) |
   
   
