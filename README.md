@@ -68,4 +68,14 @@
   | 嵌套类、解构语法、运算符重载 | [ClassStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ClassStudy.kt) |
   | 枚举、代数数据类型、密封类   | [ADTStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin06/ADTStudy.kt) |
   
+
+
+
+* 接口和抽象类、泛型
+
+  | Name         | Index                                                        |
+  | ------------ | ------------------------------------------------------------ |
+  | 接口、抽象类 | [InterfaceAbstractStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/InterfaceAbstractStudy.kt) |
+  | 泛型         | [GenericStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/GenericStudy.kt) |
+
   
