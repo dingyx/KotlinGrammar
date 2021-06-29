@@ -73,9 +73,21 @@
 
 * 接口和抽象类、泛型
 
-  | Name         | Index                                                        |
-  | ------------ | ------------------------------------------------------------ |
-  | 接口、抽象类 | [InterfaceAbstractStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/InterfaceAbstractStudy.kt) |
-  | 泛型         | [GenericStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/GenericStudy.kt) |
+  | Name            | Index                                                        |
+  | --------------- | ------------------------------------------------------------ |
+  | 接口、抽象类    | [InterfaceAbstractStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/InterfaceAbstractStudy.kt) |
+  | 泛型            | [GenericStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/GenericStudy.kt) |
+| 协变out、逆变in | [OutInStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/OutInStudy.kt) |
+  | reified         | [ReifiedStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/ReifiedStudy.kt) |
+  
+
+
+
+* 扩展函数、扩展属性、扩展文件、DSL
+
+  | Name                   | Index                                                        |
+  | ---------------------- | ------------------------------------------------------------ |
+  | 扩展(函数、属性、文件) | [ExpandStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/ExpandStudy.kt) |
+  | DSL                    | [DSLStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/DSLStudy.kt) |
 
   

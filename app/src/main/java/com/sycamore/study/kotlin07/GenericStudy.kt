@@ -16,6 +16,8 @@ package com.sycamore.study.kotlin07
  *
  * 泛型类型约束 class MagicBox<T : Human>(item: T) {
  *
+ * vararg 关键字 可变参数   放多个实例 class MagicBox<T : Human>(vararg item: T) {
+ *
  * @date: 2021/6/19
  */
 class MagicBox<T>(item: T) {
@@ -37,6 +39,20 @@ class MagicBox<T>(item: T) {
     }
 
 }
+
+
+// vararg 关键字 可变参数   放多个实例
+class Animal<T>(vararg item: T) {
+
+    // 可变参数与泛型结合 Array<out T>
+    private var subject: Array<out T> = item
+
+    fun fetch(index: Int): T? {
+        return subject[index]
+    }
+
+}
+
 
 class Boy(val name: String, val age: Int)
 
