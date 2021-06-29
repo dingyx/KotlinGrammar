@@ -77,7 +77,7 @@
   | --------------- | ------------------------------------------------------------ |
   | 接口、抽象类    | [InterfaceAbstractStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/InterfaceAbstractStudy.kt) |
   | 泛型            | [GenericStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/GenericStudy.kt) |
-| 协变out、逆变in | [OutInStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/OutInStudy.kt) |
+  | 协变out、逆变in | [OutInStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/OutInStudy.kt) |
   | reified         | [ReifiedStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin07/ReifiedStudy.kt) |
   
 
