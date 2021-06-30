@@ -83,11 +83,22 @@
 
 
 
-* 扩展函数、扩展属性、扩展文件、DSL
+* 扩展(函数、属性、文件)、DSL、三大类函数(transform、filter、combine)、序列 Sequence
 
-  | Name                   | Index                                                        |
-  | ---------------------- | ------------------------------------------------------------ |
-  | 扩展(函数、属性、文件) | [ExpandStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/ExpandStudy.kt) |
-  | DSL                    | [DSLStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/DSLStudy.kt) |
+  | Name                                   | Index                                                        |
+  | -------------------------------------- | ------------------------------------------------------------ |
+  | 扩展(函数、属性、文件)                 | [ExpandStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/ExpandStudy.kt) |
+  | DSL                                    | [DSLStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/DSLStudy.kt) |
+| 变换transform、过滤filter、合并combine | [FunctionStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/FunctionStudy.kt) |
+  | 惰性集合                               | [SequenceStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/SequenceStudy.kt) |
+  
+
+
+
+* Java调用Kotlin
+
+  | Name                    | Index                                                        |
+  | ----------------------- | ------------------------------------------------------------ |
+  | Java 调用 Kotlin 注意点 | [JavaKotlinStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin09/JavaKotlinStudy.kt) |
 
   
