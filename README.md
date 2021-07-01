@@ -89,7 +89,7 @@
   | -------------------------------------- | ------------------------------------------------------------ |
   | 扩展(函数、属性、文件)                 | [ExpandStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/ExpandStudy.kt) |
   | DSL                                    | [DSLStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/DSLStudy.kt) |
-| 变换transform、过滤filter、合并combine | [FunctionStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/FunctionStudy.kt) |
+  | 变换transform、过滤filter、合并combine | [FunctionStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/FunctionStudy.kt) |
   | 惰性集合                               | [SequenceStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin08/SequenceStudy.kt) |
   
 
@@ -99,6 +99,6 @@
 
   | Name                    | Index                                                        |
   | ----------------------- | ------------------------------------------------------------ |
-  | Java 调用 Kotlin 注意点 | [JavaKotlinStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin09/JavaKotlinStudy.kt) |
+  | Java 调用 Kotlin 注意点 | [KotlinJavaStudy](https://github.com/dingyx/KotlinGrammar/tree/main/app/src/main/java/com/sycamore/study/kotlin09/KotlinJavaStudy.kt) |
 
   
